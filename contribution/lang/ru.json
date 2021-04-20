@@ -1,48 +1,48 @@
 {
   "tabs": {
     "map": {
-      "trans": "Map",
+      "trans": "Карта",
       "eng": "Map"
     },
     "inventory": {
-      "trans": "Inventory",
+      "trans": "Инвентарь",
       "eng": "Inventory"
     },
     "quest": {
-      "trans": "Quest",
+      "trans": "Задание",
       "eng": "Quest"
     },
     "chat": {
-      "trans": "Chat",
+      "trans": "Чат",
       "eng": "Chat"
     },
     "profile": {
-      "trans": "Profile",
+      "trans": "Профиль",
       "eng": "Profile"
     }
   },
   "levelType": {
     "normal": {
       "name": {
-        "trans": "level",
+        "trans": "Уровень",
         "eng": "level"
       }
     },
     "print": {
       "name": {
-        "trans": "printing rank",
+        "trans": "Уровень печати",
         "eng": "printing rank"
       }
     },
     "medical": {
       "name": {
-        "trans": "medical science",
+        "trans": "Медицинская наука",
         "eng": "medical science"
       }
     },
     "ammo": {
       "name": {
-        "trans": "ammo crafting",
+        "trans": "Создание боеприпасов",
         "eng": "ammo crafting"
       }
     }
@@ -50,7 +50,7 @@
   "location": {
     "mainHub": {
       "name": {
-        "trans": "Shangri-La City center",
+        "trans": "Центральный район Шангри-Ла",
         "eng": "Shangri-La City center"
       },
       "description": {
@@ -59,38 +59,38 @@
       },
       "toStation": {
         "name": {
-          "trans": "Go to Hyper Train Central Station",
+          "trans": "Идти на Центральную станцию Гиперпоездов",
           "eng": "Go to Hyper Train Central Station"
         },
         "tut": {
-          "trans": "Start your adventure to epic loots here",
+          "trans": "Начните свой путь к эпическому снаряжению здесь",
           "eng": "Start your adventure to epic loots here"
         }
       },
       "toJob": {
         "name": {
-          "trans": "Go to Shangri-La Commercial Area",
+          "trans": "Идти в Коммерческий район Шангри-Ла",
           "eng": "Go to Shangri-La Commercial Area"
         },
         "tut": {
-          "trans": "You can complete AFK jobs to increase your skills here",
+          "trans": "Здесь вы можете выполнять АФК задания для повышения уровня способностей",
           "eng": "You can complete AFK jobs to increase your skills here"
         }
       },
       "toMarket": {
         "name": {
-          "trans": "Go to Shangri-La Market Street",
+          "trans": "Идти в Торговый район Шангри-Ла",
           "eng": "Go to Shangri-La Market Street"
         },
         "tut": {
-          "trans": "You can sell or buy items from other players here",
+          "trans": "Здесь вы можете продать или купить предметы у других игроков",
           "eng": "You can sell or buy items from other players here"
         }
       }
     },
     "job": {
       "name": {
-        "trans": "Shangri-La Commercial Area",
+        "trans": "Коммерческий район Шангри-Ла",
         "eng": "Shangri-La Commercial Area"
       },
       "description": {
@@ -99,14 +99,14 @@
       },
       "toMainHub": {
         "name": {
-          "trans": "Return to Shangri-La City Center",
+          "trans": "Вернуться в Центральный район Шангри-Ла",
           "eng": "Return to Shangri-La City Center"
         }
       }
     },
     "market": {
       "name": {
-        "trans": "Shangri-La Market Street",
+        "trans": "Торговый район Шангри-Ла",
         "eng": "Shangri-La Market Street"
       },
       "description": {
@@ -115,21 +115,21 @@
       },
       "toMainHub": {
         "name": {
-          "trans": "Return to Shangri-La City Center",
+          "trans": "Вернуться в Центральный Район Шангри-Ла",
           "eng": "Return to Shangri-La City Center"
         }
       }
     },
     "station": {
       "name": {
-        "trans": "Hyper Train Central Station",
+        "trans": "Центральная станция Гиперпоездов",
         "eng": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease."
       }
     },
     "zone": {
       "backToMainHub": {
         "name": {
-          "trans": "Back to city center",
+          "trans": "Вернуться в центральный район",
           "eng": "Return to ${mainHubName}",
           "vars": [
             "mainHubName"
@@ -141,20 +141,20 @@
           "vars": [
             "segmentStationName"
           ],
-          "trans": "back to ${segmentStationName}",
+          "trans": "Вернуться в ${segmentStationName}",
           "eng": "back to ${segmentStationName}"
         },
         "description": {
           "vars": [
             "segmentStationName"
           ],
-          "trans": "return to ${segmentStationName}",
+          "trans": "Вернуться в ${segmentStationName}",
           "eng": "return to ${segmentStationName}"
         }
       },
       "toStation": {
         "description": {
-          "trans": "Return to Hyper Train Station",
+          "trans": "Вернуться на станцию Гиперпоездов",
           "eng": "Return to Hyper Train Station"
         }
       }
